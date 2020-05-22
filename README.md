@@ -1,4 +1,4 @@
-# sandbox\_\_git_submodule-child
+# sandbox\_\_git_submodule-child-public
 
 Sandbox for git submodule.
 
